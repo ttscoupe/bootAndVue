@@ -148,12 +148,12 @@
               }
             }
           },
-          {
-            title:'预览图',
-            align:"center",
-            dataIndex: 'modPic',
-            scopedSlots: {customRender: 'imgSlot'}
-          },
+          // {
+          //   title:'预览图',
+          //   align:"center",
+          //   dataIndex: 'modPic',
+          //   scopedSlots: {customRender: 'imgSlot'}
+          // },
           // {
           //   title:'分享地址',
           //   align:"center",
@@ -164,12 +164,12 @@
           //   align:"center",
           //   dataIndex: 'modFxscan'
           // },
-          {
-            title:'模型',
-            align:"center",
-            dataIndex: 'modObj',
-            scopedSlots: {customRender: 'fileSlot'}
-          },
+          // {
+          //   title:'模型',
+          //   align:"center",
+          //   dataIndex: 'modObj',
+          //   scopedSlots: {customRender: 'fileSlot'}
+          // },
           {
             title:'创建日期',
             align:"center",
